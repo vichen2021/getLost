@@ -1,0 +1,15 @@
+delete from "tb01user" where userid <> 'admin';
+INSERT INTO "tb01user" ("userid","username","sex","password","phone","state","ext") VALUES
+('001','测试用户甲',1,'e10adc3949ba59abbe56e057f20f883e','8888666777',1,'{"email":"10000@qq.com","avatar":"/images/sys/avatar.png","idno":""}'),
+('002','测试用户乙',1,'e10adc3949ba59abbe56e057f20f883e','8888666777',1,'{"email":"10000@qq.com","avatar":"/images/sys/avatar.png","idno":""}');
+
+INSERT INTO "tb01userrole" ("userid", "roleid") VALUES
+('admin','dev');
+
+-- INSERT INTO "tb01rolemenu" ("roleid", "menuid")
+-- VALUES
+-- 	('admin','200'),
+-- 	('admin','201'),
+-- 	('dev', 'DEV000'),
+-- 	('dev', 'DEV001'),
+-- 	('dev', 'DEV002');
