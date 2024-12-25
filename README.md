@@ -1,15 +1,14 @@
 # 失物招领信息发布平台-Next.js
 
-
-访问地址|<http://127.0.0.1:3456/01factory/admin/uc01/zhmtzh>
-系统登录用户名|`001`
-系统登录密码|`123456`
-数据库访问地址|<http://127.0.0.1:3456/adminer?pgsql=db&username=01factory&db=01factory&ns=public>
-数据库登录数据库类型(`System`)|`PostgreSQL`
-数据库登录地址(`Server`)|`db`
-数据库登录用户名(`Username`)|`01factory`
-数据库登录密码(`Password`)|`01factory`
-数据库登录数据库(`Database`)|`01factory`
+- 访问地址|<http://127.0.0.1:3456/01factory/admin/uc01/zhmtzh>
+- 系统登录用户名|`001`
+- 系统登录密码|`123456`
+- 数据库访问地址|<http://127.0.0.1:3456/adminer?pgsql=db&username=01factory&db=01factory&ns=public>
+- 数据库登录数据库类型(`System`)|`PostgreSQL`
+- 数据库登录地址(`Server`)|`db`
+- 数据库登录用户名(`Username`)|`01factory`
+- 数据库登录密码(`Password`)|`01factory`
+- 数据库登录数据库(`Database`)|`01factory`
 
 ## 资源引用
 
